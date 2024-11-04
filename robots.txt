@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://odeveiye.github.io/Vos/sitemap_index.txt
+Sitemap: https://odeveiye.github.io/bkM/sitemap_index.txt
+Sitemap: https://odeveiye.github.io/hyo/sitemap_index.txt
+Sitemap: https://odeveiye.github.io/rYV/sitemap_index.txt
